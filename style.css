@@ -1,0 +1,231 @@
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+#header h1{
+
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	background-color: lightgrey;
+	margin: 0;
+	padding: 20px 0 20px 0;
+
+}
+
+#firstText h2{
+	font-size: 15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+}
+
+#sidebarView { 
+	border: 3px solid black;
+	padding-bottom: 200px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#sidebarView h2 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 18px;
+	padding-left: 10px;
+}
+
+#sidebarView text {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 13px;
+	padding-left: 10px;
+}
+
+#numberOfGuests {
+	width: 20%;
+	border: 3px solid black;
+}
+
+
+#sidebarView table{
+	background-color: lightgrey;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	margin-top: 20px;
+	width: 100%;
+}
+
+#sidebarView td{
+	padding:0px 10px 0px 10px;
+}
+
+
+
+#sidebarView p{
+	color: #A52A2A;
+	text-align: left;
+	padding: 20px;
+	padding-top: 10px;
+	margin-top 10px;
+}
+
+.confirmbtn {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: lightgrey;
+	box-shadow: 4px 4px black;
+	border: 3px solid black;
+	border-radius: 0px;
+	color: black;
+	margin:auto;
+  	display:block;
+	
+}
+
+.dishSearch {
+	font-family: "Comic Sans MS", sans-serif;
+	font-size: 13px;
+	border: 1px solid black;
+	border-radius: 0px;
+	color: black;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#findDish {
+	border-top: 3px solid grey;
+	border-bottom: 3px solid black;
+	border-left: 0px;
+	border-right: 3px solid black;
+	padding-bottom: 10px;
+}
+
+#findDish h2 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+
+}
+
+#findDish button {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: orange;
+	box-shadow: 4px 4px black;
+	border: 3px solid black;
+	border-radius: 0px;
+	color: black;
+}
+
+
+#chooseDish {
+	border-bottom: 3px solid black;
+	border-top: 0px;
+	border-right: 3px solid black;
+	border-left: 0px
+}
+
+#pic {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+
+}
+
+#chooseDish img {
+	border: 3px solid black;
+	width: 100%;
+}
+
+#chooseDish text{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	border-bottom: 3px solid black;
+	border-top: 0px;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	background-color: lightgrey;
+	text-align: center;
+}
+
+#dish {
+	width: 50%;
+
+}
+
+#addtoMenubtn, #createNewDinner  {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: orange;
+	box-shadow: 4px 4px black;
+	border: 3px solid black;
+	border-radius: 0px;
+	color: black;
+	width: 100%;
+
+}
+
+#backtoSearchbtn {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: orange;
+	border: 3px solid black;
+	border-radius: 10px;
+	color: black;
+
+}
+
+#ingredients {
+	background-color: #fbdf80;
+	border: 3px solid black;
+	width: 50%;
+	padding-bottom: 200px;
+
+}
+
+hr {
+height: 1px;
+color: #123455;
+background-color: #123455;
+border: none;
+width: 90%;
+}
+
+#dishView h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	color: black;
+
+}
+
+#myDinnerPeople {
+	border-top: 3px solid grey;
+	border-bottom: 3px solid black;
+	padding: 20px;
+}
+
+#myDinnerPeople text {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: black;
+
+}
+
+#goBack {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: orange;
+	border: 3px solid black;
+	border-radius: 0px;
+	color: black;
+	margin-left: 65%;
+	padding: 5px;
+}
+
+#printRecipe {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 17px;
+	background-color: orange;
+	box-shadow: 4px 4px black;
+	border: 3px solid black;
+	border-radius: 0px;
+	color: black;
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+
